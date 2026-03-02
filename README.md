@@ -17,9 +17,9 @@ Su objetivo es resolver **sistemas de ecuaciones lineales de `n` incógnitas** i
 1. Ejecute el programa:
     python3 nombre_del_archivo.py
 2. Introduzca la cantidad de incógnitas del sistema.
-3. Ejemplo: Para resolver el sistema
-      5x + 3y = 8
-      6x - y  = 23
+3. Ejemplo: Para resolver el sistema  
+      5x + 3y = 8  
+      6x - y  = 23  
    Debe introducir los números en este orden: 5, 3, 8, 6, -1, 23.
 4. El programa calculará y mostrará los valores de cada incógnita.
 
